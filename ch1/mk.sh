@@ -9,3 +9,5 @@ g++ -o const3 const3.cpp
 g++ -c scopes.cpp
 g++ -o scopes2 scopes2.cpp
 g++ -c varinit.cpp
+g++ -o ifelse ifelse.cpp
+g++ -o nestedloop nestedloop.cpp
