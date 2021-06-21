@@ -11,3 +11,4 @@ g++ -o scopes2 scopes2.cpp
 g++ -c varinit.cpp
 g++ -o ifelse ifelse.cpp
 g++ -o nestedloop nestedloop.cpp
+g++ -o trycatch trycatch.cpp
